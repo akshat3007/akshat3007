@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshat3007
-- 👀 I’m interested in latest computer science technologies and skills such as web development
+- 👀 I’m interested in computer science technologies and skills such as web development
 - 🌱 I’m currently learning computer science through an undergraduate degree
 - 💞️ I’m looking to collaborate on future projects
 
